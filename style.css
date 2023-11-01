@@ -202,7 +202,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #5B5B29;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -239,7 +239,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #5B5B29;
 	padding: .5em 1em
 }
 
